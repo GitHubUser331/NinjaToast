@@ -43,6 +43,7 @@ There are more commands to be added soon.
 
 - This app needs to be in development as soon as possible. Any contribution to this project would be appreciated.
 - The project is handovered by the original developer - NinjaST.
+- This app may contain unknown bugs which may be fixed in the future.
 
 ## Thanks
 
