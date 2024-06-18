@@ -46,13 +46,13 @@ There are more commands to be added soon.
 
 ## Thanks
 
-This project wouldn't be possible without the contribution of these:
+This project wouldn't be possible without the contribution of:
 
-- <a href="https://source.android.com">The Android Open Source Project (AOSP)</a>
-- <a href="https://www.oracle.com/in/java/technologies/downloads/">Java JDK</a> for the Java VM to compile the application.
--  appPlugin library for various tasks in the app.
--  NinjaST for the original project.
--  All the people who support this project
+- <a href="https://source.android.com">**The Android Open Source Project (AOSP)**</a>
+- <a href="https://www.oracle.com/in/java/technologies/downloads/">**Java JDK**</a> (for the Java VM to compile the application).
+-  **appPlugin library** (for various tasks in the app).
+-  **NinjaST** (for the original project).
+-  All the people who support this project.
 
 ## NOTE: This app is for development and testing purposes only. It should be used carefully and is intended for further development. Original project is handovered by NinjaST.
 
