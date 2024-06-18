@@ -1,6 +1,7 @@
 # NinjaToast
 NinjaToast is an Android application that displays custom toast messages that can be used for testing.
-<a href="https://github.com/GitHubUser331/NinjaToast#NOTE">Read the note</a>
+
+<a href="https://github.com/GitHubUser331/NinjaToast?tab=readme-ov-file#note-this-app-is-for-development-and-testing-purposes-only-it-should-be-used-carefully-and-is-intended-for-further-development-original-project-is-handovered-by-ninjast">Read the note.</a>
 
 ## Installation & Use
 - You can download the .apk file <a href="https://github.com/GitHubUser331/NinjaToast/releases">here</a> and then install it as usual (enabling unknown sources in settings).
